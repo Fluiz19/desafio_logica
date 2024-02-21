@@ -25,7 +25,7 @@ if ( xp >=8001 || xp <=9000){
 if ( xp >= 9001 || xp <= 1000){
     nivel = "Imortal";
 }
-if (xp > 1000){
+if (xp > 10000){
     nivel ="Radiante";
 }
 console.log("O herói " + nome + " está no vivel " + nivel);
